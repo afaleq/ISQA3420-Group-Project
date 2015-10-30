@@ -46,3 +46,27 @@ Main Success Scenario: The corporate developer downloads accurate license inform
 
 Failed End Conditions: Corporate developer receives inaccurate or invalid license and vulnerability information for the requested software.
 Trigger: Corporate developer uploads  file/ package into the system.
+
+Use case 3:
+
+Title: Mange code information 
+
+Primary Actor: Corporate Developer
+
+Goal in Context: The corporate developer wants to manage cod einformation.
+
+Stakeholders: 
+
+Corporate Manager: To receive clear and relevant project information
+
+Corporate Developer: To provide the relevant file/package level information 
+
+Project Owner: To clearly understand corporate manager decisions to green/red light a project 
+
+Preconditions: Accurate/Relevant file/package is provided by corporate developer.
+
+Main Success Scenario: Corporate developer is able to successfully manage code information.
+
+Failed End Conditions: Corporate developer is unable to manage code information accurately because wrong file/package information is provided.
+
+Trigger: Corporate developer uploads a file/package.
