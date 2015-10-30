@@ -1,3 +1,5 @@
+Use case 1:
+
 Title: Determine License and Vulnerability Information 
 
 Primary Actor: Corporate Manager
@@ -19,6 +21,8 @@ Main Success Scenario: Corporate manager receives accurate license and vulnerabi
 Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
 
 Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is provided
+
+
 Use Case 2:
 
 Title: Get license information
