@@ -6,7 +6,7 @@ Primary Actor: Corporate Manager
 
 Goal in Context: The corporate manager is able to determine license and vulnerability information from provided project information
 
-Stakeholders: 
+Stakeholders: Corporate manager, corporate developer, company management, OSS community.
 
 Corporate Manager: To receive clear and relevant project information
 
@@ -32,7 +32,7 @@ Primary Actor: Corporate Developer
 Goal in Context: The corporate developer wants to get license information for an OSS.
 
 
-Stakeholders: 
+Stakeholders: Corporate manager, corporate developer, company management, OSS community.
 
 Corporate Manager: To receive clear and relevant project information
 
@@ -55,7 +55,7 @@ Primary Actor: Corporate Developer
 
 Goal in Context: The corporate developer wants to manage cod einformation.
 
-Stakeholders: 
+Stakeholders: Corporate manager, corporate developer, company management, OSS community.
 
 Corporate Manager: To receive clear and relevant project information
 
