@@ -1,4 +1,4 @@
-Use case 1:
+Use Case 1:
 
 Title: Determine License and Vulnerability Information 
 
@@ -47,7 +47,7 @@ Main Success Scenario: The corporate developer downloads accurate license inform
 Failed End Conditions: Corporate developer receives inaccurate or invalid license and vulnerability information for the requested software.
 Trigger: Corporate developer uploads  file/ package into the system.
 
-Use case 3:
+Use Case 3:
 
 Title: Mange code information 
 
