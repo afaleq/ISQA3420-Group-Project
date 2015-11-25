@@ -1,4 +1,4 @@
-![Entity Relationship Diagram](https://cloud.githubusercontent.com/assets/14809770/10950926/09022a7e-8300-11e5-90b3-bd9bbb1e0bbf.jpg)
+![Entity Relationship Diagram](https://cloud.githubusercontent.com/assets/14812310/11389657/753860ec-9308-11e5-837a-d3213a87ae23.png)
 
 Entities identified:
 
