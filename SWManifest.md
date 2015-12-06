@@ -25,6 +25,8 @@ Document:
       # License
       Copy left
       GPL V2:
+      Permissive
+      
       GPL V3:
       
       
