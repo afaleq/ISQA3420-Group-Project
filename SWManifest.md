@@ -28,6 +28,7 @@ Document:
       Permissive
       
       GPL V3:
+      Apache- Yellow
       
       
       
