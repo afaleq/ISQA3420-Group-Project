@@ -34,5 +34,7 @@ Document:
       
       Scores
       
+      0<X<6- Yellow
+      x>6- Red
       
 
