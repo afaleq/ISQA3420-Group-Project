@@ -23,6 +23,7 @@ Document:
       
       Policy Document:
       # License
+      Copy left
       
       
       
