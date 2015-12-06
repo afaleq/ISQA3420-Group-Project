@@ -24,6 +24,7 @@ Document:
       Policy Document:
       # License
       Copy left
+      GPL V2:
       
       
       
