@@ -19,12 +19,12 @@ Software Manifest
       Name: 
       SHA1:  
       CPE:  
-      Licenses: 
+      PackageLicense: 
       Vulnerabilities: 
       DocumentID:
       Originator:
       Supplier:
-      PkgVersion:
+      PackageVersion:
       Comments:
       
       
@@ -45,17 +45,3 @@ Software Manifest
       Comments:
       Originator:
       SourceInfo:
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
