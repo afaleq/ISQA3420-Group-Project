@@ -1,5 +1,5 @@
 
- Policy Document:
+ Policy
  
   # Licenses
   
