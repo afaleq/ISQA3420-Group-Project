@@ -1,24 +1,24 @@
 
  Policy Document:
  
-  # License
+  # Licenses
   
   Copyleft:
   
-  GPL V2
+  GPL V2 - Red
 
-  GPL V3
+  GPL V3 - Black
   
   Permissive:
   
-  Apache- Yellow
+  Apache - Yellow
   
-  MIT- Green
+  MIT - Green
   
   # Vulnarabilities:
 
   Scores
 
-  0<X<6- Yellow
+  0<X<6 - Yellow
   
-  x>6- Red
+  x>6 - Red
